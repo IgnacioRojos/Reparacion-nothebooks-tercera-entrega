@@ -1,0 +1,31 @@
+.frecuente{
+	font-size: 30px;
+	color:$colorTitulosC;
+}
+
+.pregunta{
+	text-decoration: underline 5px black;
+	color: red;
+	font-style: italic;
+}
+
+.respuesta{
+	list-style: none;
+	color: hotpink;
+	
+}
+
+.cuadro_duda{
+	background-color: yellow;
+	margin-right: 750px;
+	text-align: center;
+	margin-left: 250px;
+}
+
+.duda{
+    padding-top: 50px;
+}
+
+.aceptarO{
+	color:$colorLetrasBody;
+}

@@ -1,0 +1,29 @@
+div{
+	ul{
+		li{
+			a{
+				color: $colorLetrasBarra;
+				font-size: 20px;
+				text-decoration: underline $colorSubrayado;
+			}
+		}
+	}
+}
+
+
+@media only screen and (max-width: 768px){
+	div{
+		ul{
+
+			li{
+				a{
+					color: $colorLetrasBarra;
+					font-size: 15px;
+					text-decoration: underline $colorSubrayado;
+				}
+			}
+		}
+	}	
+
+
+}

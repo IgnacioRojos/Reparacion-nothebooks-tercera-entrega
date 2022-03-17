@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px){
+	.tabla{
+		border-right-width: 20px;
+    	margin-right: 29px;
+   		margin-left: 29px;
+    	margin-top: 20px;
+		font-size: 20px;
+		color: darkgrey;
+		border: 20px inset sandybrown;
+	}
+
+	.carta{
+		background-image:linear-gradient(to bottom, greenyellow, whitesmoke);
+		margin-bottom: 50px;
+		margin-right: 50px;
+	}
+	
+	h2{
+		font-size: 35px;
+		color: greenyellow;
+		text-decoration: underline black solid;
+	}	
+
+}

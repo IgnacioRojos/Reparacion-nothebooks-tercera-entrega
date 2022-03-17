@@ -1,0 +1,31 @@
+.titulo__footer3{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 50px;
+	color: $colorTituloPiePag;
+}
+.texto__contacto3{
+	padding-top: 100px;
+	color:$colorPiePag;
+}
+.logo_whatsapp{
+	width: 250px;
+}
+
+@media only screen and (max-width: 768px){
+	.titulo__footer3{
+		text-align: center;
+		margin-top: 40px;
+		font-size: 30px;
+		color: $colorTituloPiePag;
+	}
+	.texto__contacto3{
+		padding-top: 100px;
+		color:$colorPiePag;
+		padding-left:10px;
+	}
+	.logo_whatsapp{
+		width: 150px;
+	}
+
+}
